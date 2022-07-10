@@ -27,7 +27,7 @@ int32_t main()
          
          if(n==1)
          {
-            cout<<"Case #"<<t+1<<": "<<v[0]<<endl;   
+            cout<<"Case #"<<t+1<<": "<<fixed<<setprecision(6)<<v[0]<<endl;   
          }else
          {
             double sum = 0.0;
@@ -42,11 +42,8 @@ int32_t main()
             {
                sum = sum + v[i];
             }       
-            cout<<"Case #"<<t+1<<": "<<sum<<endl;   
+            cout<<"Case #"<<t+1<<": "<<fixed<<setprecision(6)<<sum<<endl;   
          }
-         double on = 192.12312331;
-         cout<<fixed<<setprecision(6)<<on<<endl;
-         
    }
    return 0;
 }
