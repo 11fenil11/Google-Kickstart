@@ -1,5 +1,5 @@
 # Kickstart
-### Google Kickstart Round 2 Solutions (1,2,3)
+### Hello, I'm Fenil. I love to participate in global level coding competition. Here, I upload my solutions after every Google Kickstart rounds.
 
 ### All solutions are implemented by me.
 
